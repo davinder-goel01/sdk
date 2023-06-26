@@ -4,5 +4,4 @@
 <groupId>com.ok</groupId>
 <artifactId>sdk</artifactId>
 <version>1.0.0</version>
-<packaging>aar</packaging>
 </project>
